@@ -17,3 +17,8 @@ Safari: https://developer.apple.com/safari/download/
 
 Opera: https://www.opera.com/computer/beta
 
+
+# IDE:
+Visual studio code: https://code.visualstudio.com/insiders/
+Xcode: https://developer.apple.com/xcode/ - Scroll down to the bottom of the page. On the develop section, there's a download button. Log in into your account. Once done, there should be a beta link for Xcode.
+Visual studio (Windows): https://visualstudio.microsoft.com/vs/preview/
